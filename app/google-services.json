@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394501190606",
+    "firebase_url": "https://eshopping-e3fd3.firebaseio.com",
+    "project_id": "eshopping-e3fd3",
+    "storage_bucket": "eshopping-e3fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394501190606:android:524ae4ff60b23b03",
+        "android_client_info": {
+          "package_name": "com.DEV.eshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394501190606-0nmficatf338drbf99oq3t62vq729qjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DEV.eshopping",
+            "certificate_hash": "56b8775749258d8e5b5589cb9e7d6eb52e0b56ea"
+          }
+        },
+        {
+          "client_id": "394501190606-kesi2ar3n7972odhioetak40d0gqqqmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVAGuQ0kdeZPIFf2tM9r385E18aIdLnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394501190606-kesi2ar3n7972odhioetak40d0gqqqmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
